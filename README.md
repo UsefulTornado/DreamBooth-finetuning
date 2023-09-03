@@ -6,7 +6,7 @@
 
 В файле `train.ipynb` находится код для запуска скрипта.
 
-В файле `report.ipynb` содержится описание проведённых экспериментов. Также этот ноутбук с отображением выходных значений ячеек можно найти по [ссылке](https://drive.google.com/file/d/1Bt-3hR2ut-EXywQWX3xhMrf-y9elNyLT/view?usp=sharing) в Google Colab.
+В файле `report.ipynb` содержится описание проведённых экспериментов. Также этот ноутбук с отображением выходных значений ячеек можно найти по [ссылке](https://colab.research.google.com/drive/1xfXSDc1wViUt5_A87DaNqZiZNqev5qOR?usp=sharing) в Google Colab (может долго грузиться).
 
 
 ## Аннотация
